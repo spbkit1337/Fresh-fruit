@@ -679,6 +679,7 @@ footer{
         display: none;
     }
 
+
     .pre-title{
         font-size: 14px;
     }
@@ -941,6 +942,13 @@ footer{
     .about-li {
         /* display: grid; */
         display: flex;
+    }
+
+    .price-img{
+        width: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 
 }

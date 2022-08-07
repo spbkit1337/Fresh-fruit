@@ -99,6 +99,9 @@
     font-size: 35px;
     list-style-type: none;
     margin-left: 10%;
+
+
+    z-index: 999999;
 }
 
 
